@@ -1,3 +1,3 @@
 r=float(input())
-c=3.14*r*r
-print("%0.2f"%c)
+a=3.14*r*r
+print("%.2f" %a)
